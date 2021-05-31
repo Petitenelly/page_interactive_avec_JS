@@ -1,5 +1,8 @@
 # page_interactive_avec_JS
 
+Ouvrir le fichier exo_events.html
+Ouvrir la console pour consulter les 9 fonctionnalités demandées : Sous Linux = F12 puis onglet "console" / Sous Mac = ALT + CMD + I
+
 Projet : Faire une page interactive avec JS
   
 1. Introduction
@@ -10,5 +13,4 @@ Dans ce projet nous allons te donner une page HTML déjà faite (et qui ne sera 
 PS : tout comme le projet sur les modifications du DOM : il est interdit de toucher au fichier HTML ! On va tout faire par JavaScript.
 
   
-Ouvrir le fichier exo_events.html
-Ouvrir la console pour consulter les 9 fonctionnalités demandées : Sous Linux = F12 puis onglet "console" / Sous Mac = ALT + CMD + I
+
